@@ -1,0 +1,13 @@
+datasets==2.20.0
+huggingface_hub==0.24.5
+numpy==1.24.2
+openai==1.41.0
+peft==0.12.0
+python-dotenv==1.0.1
+sentence_transformers==2.3.1
+streamlit==1.27.2
+torch==2.0.0
+transformers==4.44.0
+trl==0.9.6
+unsloth==2024.8
+wandb==0.17.7
